@@ -3,7 +3,7 @@ development:
   host:     localhost
   database: equibrief_dev
   pool: 5
-  username: admin
+  username: postgres
 
 production:
   adapter:  postgresql
